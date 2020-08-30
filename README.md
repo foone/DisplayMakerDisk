@@ -15,3 +15,6 @@ These are unfortunately TeleDisk images, and this tool needs raw IMG disks. You 
 # Links
 * [Twitter thread where I'm recording my findings](https://twitter.com/Foone/status/1299108629660889088)
 * [Lazy Game Reviews video on this same hardware](https://www.youtube.com/watch?v=ABOJLR7bRIA)
+
+# Language:
+This is written for Python 2.7. I know it's deprecated, I live in the past. I'll update it to Py3 later maybe. 
